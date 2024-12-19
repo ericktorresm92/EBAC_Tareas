@@ -1,9 +1,10 @@
 # Prueba Python
 # Se añadió la variable "d"
-
+# Nueva Variable e en el archivo
 a = 10
 b = 30
-c = 30 * 10 * 5
+e = 1.1
+c = 30 * 10 * 5 / e
 print('Resultado=', c)
 
 ## Cambiando el factor 102 según requerimiento del negocio
