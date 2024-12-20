@@ -1,7 +1,5 @@
 # Prueba de Python #2
 # se añadio la variable "c"
-# Comentario para Visual Code
-# Comentario para Sourcetree 
 a = 10
 b = 30
 c = 30 * 10 * 5
